@@ -1,3 +1,6 @@
+#include<LiquidCrystal.h>
+LiquidCrystalcd(12,1,23,45);
+
 int piezo = 9;
 int sonic_ec = 10, sonic_tr = 13;
 int btn = 8;
